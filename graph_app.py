@@ -1,3 +1,5 @@
+# This file demos Streamlit graph capabilities using matplotlib
+
 # Import necessary libraries
 import streamlit as st
 import networkx as nx
